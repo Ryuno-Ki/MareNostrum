@@ -36,3 +36,11 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+# Change default Preprocessors
+#gem 'nokogiri'
+
+group :development do
+	gem 'haml-rails', '>= 0.3.4'
+#	gem 'html2haml'
+end
