@@ -1,0 +1,1 @@
+clear RUBYOPT in case "bundle install" cannot be executed.
